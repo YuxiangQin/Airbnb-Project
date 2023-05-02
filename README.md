@@ -20,7 +20,7 @@ There are 2 notebooks available here to showcase work related to the above quest
 
 There is an additional .py file that runs the necessary code to obtain the final model used to predict salary.
 # Results
-The main findings of the code can be found at the post available [here](NEED TO FILL).
+The main findings of the code can be found at the post available [here](https://medium.com/@qinyuxiangzibet/discovering-the-hidden-gems-of-boston-and-seattle-airbnb-insights-into-neighborhood-vibes-and-ef4c4e0b2801).
 
 # Licensing, Authors, Acknowledgements
 Must give credit to Kaggle for the data. You can find the Licensing for the data at the Kaggle link available [here](https://creativecommons.org/publicdomain/zero/1.0/).
